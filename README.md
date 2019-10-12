@@ -2,4 +2,6 @@
 Golang GUI for TXcore (prototype).
 
 ## How it looks
-![example](https://raw.githubusercontent.com/aureleoules/txcore-gui/master/example.png)
+![example](https://raw.githubusercontent.com/aureleoules/txcore-gui/master/example.png)  
+Which returns  
+`02000000012dd8c5cc1b0e11e18c50f1cd8195dc9f9cf12d4865d5f5fb5731bad58e93934a000000006a47304402200a51f0fa750854802ea7e3d6518a714b9b5a5858e4eb4cdcc0c9ad00bca5410602205d60d8687eae847fe51167e5534c14ab56904155d4e696a3013aa7c1e561d9890121031ab2e41547cf7dc29aea2805a81c76652ff4670e83ca93d740963fe6c7ffb44cffffffff019d586e00000000001976a914cc25332219f4ddd0581829068416f4649894da0288ac00000000`
